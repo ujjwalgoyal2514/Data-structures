@@ -11,4 +11,8 @@ Conatins all leetcode questions solution I solve each day
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ujjwalgoyal2514/Data-structures/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ujjwalgoyal2514/Data-structures/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
