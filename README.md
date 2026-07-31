@@ -8,6 +8,7 @@ Conatins all leetcode questions solution I solve each day
 | ------- |
 | [0001-two-sum](https://github.com/ujjwalgoyal2514/Data-structures/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwalgoyal2514/Data-structures/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ujjwalgoyal2514/Data-structures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,9 @@ Conatins all leetcode questions solution I solve each day
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ujjwalgoyal2514/Data-structures/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ujjwalgoyal2514/Data-structures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ujjwalgoyal2514/Data-structures/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
